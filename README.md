@@ -7,6 +7,4 @@ I do recommend if you do this with a netbook to have Plex Media Server on anothe
 
 
 
-****I will be no longer be updating this for Repo, For I have started up my own GitLab Server to contiune this work. For those that are following this Repo and forking it I hope you enjoy the work I have done so far. Thank you!!!
-
-https://gitlab.tazserver.ga/root/Ubuntu-Portable-PMS***
+****I will be no longer be updating this for Repo
